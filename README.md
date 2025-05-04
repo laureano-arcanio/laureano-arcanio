@@ -10,7 +10,7 @@ Laureano has been a professional developer for 15+ years. Most recently, he's be
 
 ### Skills
 
-**Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, ***Tailwind* 
+**Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **Github Actions**, **Terraform**
 
 **Laureano is now available for hire**
 
