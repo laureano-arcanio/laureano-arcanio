@@ -12,7 +12,7 @@ With a strong foundation in system design, API architecture, and cloud infrastru
 
 ### Skills
 
-**Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **Github Actions**, **Terraform**
+**Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **SQLAlchemy**, **PostgreSQL**,**Github Actions**, **Terraform**, **Langchain**, **OpenAI Agents SDK**
 
 **Laureano is now available for hire**
 
