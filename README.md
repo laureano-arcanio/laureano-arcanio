@@ -12,14 +12,13 @@ With a strong foundation in system design, API architecture, and cloud infrastru
 
 **Laureano is now available for hire**
 
-### Skills
-
-**Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **SQLAlchemy**, **PostgreSQL**,**Github Actions**, **Terraform**, **Langchain**, **OpenAI Agents SDK**
-
 ### Industries
 
 **Finance, Healthcare, E-commerce, Retail, Logistics, Marketing, Real Estate, Fintech, SaaS Platforms, Education, Travel and Hospitality**
 
+### Github Activity
+
+[![Laureano's GitHub stats](https://github-readme-stats.vercel.app/api?username=laureano-arcanio)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Laureano's most Recent freelancing work.
