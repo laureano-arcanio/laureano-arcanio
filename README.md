@@ -2,11 +2,11 @@
 
 **Full-stack Developer in Córdoba, Argentina**
 
-*Working at **Toptal** since February 5, 20 14*
+*Freelancing at **[toptal](https://www.toptal.com/resume/laureano-martin-arcanio)** since February 5, 2014*
 
 *Previously at **Intel Corporation** (2011 - 2014)*
 
-Laureano has been a professional developer for 13+ years. Most recently, he's been focusing on full-stack web solutions with a strong focus on design and UX. He has architected complex software systems with cross-team collaboration capabilities to interact fluently between product, development, and UX. Laureano values results-focused teams and loves to deliver outstanding solutions to ambitious problems.
+Laureano has been a professional developer for 15+ years. Most recently, he's been focusing on full-stack web solutions with a strong focus on design and UX. He has architected complex software systems with cross-team collaboration capabilities to interact fluently between product, development, and UX. Laureano values results-focused teams and loves to deliver outstanding solutions to ambitious problems.
 
 ### Skills
 
@@ -16,7 +16,7 @@ Laureano has been a professional developer for 13+ years. Most recently, he's be
 
 ---
 
-## Portfolio
+## Recent Projects
 
 ### Tempus Insights
 
@@ -34,13 +34,14 @@ Laureano has been a professional developer for 13+ years. Most recently, he's be
 
 ## Experience Summary
 
-* **Full-stack Development**: 13 years
+* **Full-stack Development**: 15 years
 * **JavaScript**: 12 years
 * **CSS**: 10 years
 * **Python**: 8 years
 * **Node.js**: 6 years
-* **FastAPI**: 5 years
+* **FastAPI**: 2 years
 * **React**: 5 years
+* **NextJS**: 3 years
 * **TypeScript**: 3 years
 
 ---
