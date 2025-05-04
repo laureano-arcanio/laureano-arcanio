@@ -18,15 +18,15 @@ Laureano has been a professional developer for 15+ years. Most recently, he's be
 
 ## Recent Projects
 
-### Tempus Insights
+### [Tempus Insights]https://tempusinsights.com/()
 
 *React, Python, TypeScript, FastAPI, Amazon Web Services (AWS)*
 
-### CloneOps.AI LLC
+### [CloneOps.AI LLC](https://www.cloneops.ai/)
 
 *React, JavaScript, React Redux, GraphQL, REST APIs, CSS...*
 
-### Rooms To Go
+### [Rooms To Go](https://www.roomstogo.com/)
 
 *React, Gatsby, Next.js, Material UI, GraphQL, Storybook, Tailwind CSS, Apollo...*
 
@@ -48,7 +48,7 @@ Laureano has been a professional developer for 15+ years. Most recently, he's be
 
 ### Location
 
-Córdoba, Cordoba, Argentina
+Córdoba, Argentina
 
 ### Availability
 
