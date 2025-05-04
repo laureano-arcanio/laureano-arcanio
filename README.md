@@ -16,9 +16,9 @@ Laureano has been a professional developer for 15+ years. Most recently, he's be
 
 ---
 
-## Recent Projects
+## Laureano's most Recent freelancing work.
 
-### [Tempus Insights]https://tempusinsights.com/()
+### [Tempus Insights](https://tempusinsights.com/)
 
 *React, Python, TypeScript, FastAPI, Amazon Web Services (AWS)*
 
