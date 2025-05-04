@@ -10,11 +10,15 @@ Laureano is a multidisciplinary developer with over 15 years of professional exp
 
 With a strong foundation in system design, API architecture, and cloud infrastructure, Laureano brings a problem-solving mindset to every challenge. He’s passionate about continuous learning and constantly evolves his workflow by leveraging AI tools to accelerate development, improve code quality, and unlock deeper insights. Driven by results and user impact, Laureano thrives in delivering elegant, efficient solutions to complex, ambitious problems.
 
+**Laureano is now available for hire**
+
 ### Skills
 
 **Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **SQLAlchemy**, **PostgreSQL**,**Github Actions**, **Terraform**, **Langchain**, **OpenAI Agents SDK**
 
-**Laureano is now available for hire**
+### Industries
+
+**Finance, Healthcare, E-commerce, Retail, Logistics, Marketing, Real Estate, Fintech, SaaS Platforms, Education, Travel and Hospitality**
 
 ---
 
@@ -22,15 +26,15 @@ With a strong foundation in system design, API architecture, and cloud infrastru
 
 ### [Tempus Insights](https://tempusinsights.com/)
 
-*React, Python, TypeScript, FastAPI, Amazon Web Services (AWS)*
+*React, Python, TypeScript, FastAPI, SQLAlchemy, Pytest, Vitetest.*
 
 ### [CloneOps.AI LLC](https://www.cloneops.ai/)
 
-*React, JavaScript, React Redux, GraphQL, REST APIs, CSS...*
+*React, JavaScript, React Redux, GraphQL, REST APIs, CSS.*
 
 ### [Rooms To Go](https://www.roomstogo.com/)
 
-*React, Gatsby, Next.js, Material UI, GraphQL, Storybook, Tailwind CSS, Apollo...*
+*React, Gatsby, Next.js, Material UI, GraphQL, Storybook, Tailwind CSS, Apollo.*
 
 ---
 
