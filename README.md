@@ -6,7 +6,9 @@
 
 *Previously at **Intel Corporation** (2011 - 2014)*
 
-Laureano has been a professional developer for 15+ years. Most recently, he's been focusing on full-stack web solutions with a strong focus on design and UX. He has architected complex software systems with cross-team collaboration capabilities to interact fluently between product, development, and UX. Laureano values results-focused teams and loves to deliver outstanding solutions to ambitious problems.
+Laureano is a multidisciplinary developer with over 15 years of professional experience, specializing in Python-based backend development and full-stack web solutions. He has architected scalable, high-performance systems that bridge product, design, and engineering teams—ensuring seamless collaboration across disciplines.
+
+With a strong foundation in system design, API architecture, and cloud infrastructure, Laureano brings a problem-solving mindset to every challenge. He’s passionate about continuous learning and constantly evolves his workflow by leveraging AI tools to accelerate development, improve code quality, and unlock deeper insights. Driven by results and user impact, Laureano thrives in delivering elegant, efficient solutions to complex, ambitious problems.
 
 ### Skills
 
