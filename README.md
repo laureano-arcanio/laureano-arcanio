@@ -12,6 +12,8 @@ With a strong foundation in system design, API architecture, and cloud infrastru
 
 **Laureano is now available for hire**
 
+If you'd like to *interactively explore my experience and qualifications*, feel free to chat with a resume-powered AI assistant I set up [here](https://chatgpt.com/g/g-681a64c0c84081919e7bd3c9c23bb27a-laureano-arcanio). It's a quick and engaging way to get to know my background.
+
 ### Skills
  
  **Python**, **JavaScript**, **Typescript** , **FastAPI**, **Node.js**, **NextJS**, **Vite**, **React**, **Ember.js**, **MUI**, **Tailwind**, **SQLAlchemy**, **PostgreSQL**,**Github Actions**, **Terraform**, **Langchain**, **OpenAI Agents SDK**
