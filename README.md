@@ -4,9 +4,9 @@
 
 *Freelancing at **[toptal](https://www.toptal.com/resume/laureano-martin-arcanio)** since February 5, 2014*
 
-*Previously at **Intel Corporation** (2011 - 2014)*
+*Previously at *Intel Corporation* (2011 - 2014)*
 
-If you'd like to *interactively explore my experience and qualifications*, feel free to chat with a resume-powered AI assistant I set up [here](https://chatgpt.com/g/g-681a64c0c84081919e7bd3c9c23bb27a-laureano-arcanio). It's a quick and engaging way to get to know my background.
+If you'd like to **interactively explore my experience and qualifications**, feel free to chat with a resume-powered AI assistant I set up [here](https://chatgpt.com/g/g-681a64c0c84081919e7bd3c9c23bb27a-laureano-arcanio). It's a quick and engaging way to get to know my background.
 
 Laureano is a multidisciplinary developer with over 15 years of professional experience, specializing in Python-based backend development and full-stack web solutions. He has architected scalable, high-performance systems that bridge product, design, and engineering teams—ensuring seamless collaboration across disciplines.
 
