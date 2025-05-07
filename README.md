@@ -6,13 +6,13 @@
 
 *Previously at **Intel Corporation** (2011 - 2014)*
 
+If you'd like to *interactively explore my experience and qualifications*, feel free to chat with a resume-powered AI assistant I set up [here](https://chatgpt.com/g/g-681a64c0c84081919e7bd3c9c23bb27a-laureano-arcanio). It's a quick and engaging way to get to know my background.
+
 Laureano is a multidisciplinary developer with over 15 years of professional experience, specializing in Python-based backend development and full-stack web solutions. He has architected scalable, high-performance systems that bridge product, design, and engineering teams—ensuring seamless collaboration across disciplines.
 
 With a strong foundation in system design, API architecture, and cloud infrastructure, Laureano brings a problem-solving mindset to every challenge. He’s passionate about continuous learning and constantly evolves his workflow by leveraging AI tools to accelerate development, improve code quality, and unlock deeper insights. Driven by results and user impact, Laureano thrives in delivering elegant, efficient solutions to complex, ambitious problems.
 
 **Laureano is now available for hire**
-
-If you'd like to *interactively explore my experience and qualifications*, feel free to chat with a resume-powered AI assistant I set up [here](https://chatgpt.com/g/g-681a64c0c84081919e7bd3c9c23bb27a-laureano-arcanio). It's a quick and engaging way to get to know my background.
 
 ### Skills
  
