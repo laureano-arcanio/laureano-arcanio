@@ -4,7 +4,7 @@
 Córdoba, Argentina
 [GitHub](https://github.com/laureano-arcanio) · [Toptal Profile](https://www.toptal.com/resume/laureano-martin-arcanio)
 
-AI systems engineer with 15+ years of experience building scalable software across frontend, backend, and ML infrastructure. I specialize in large language model (LLM) integration, evaluation pipelines, tool-calling systems, and production-grade AI architectures.
+AI systems engineer with 20+ years of experience building scalable software across frontend, backend, and ML infrastructure. I specialize in large language model (LLM) integration, evaluation pipelines, tool-calling systems, and production-grade AI architectures.
 
 I’ve worked across US and European teams delivering high-performance systems that bridge product, engineering, and design.
 
