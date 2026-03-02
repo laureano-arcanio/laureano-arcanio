@@ -14,7 +14,7 @@ Currently available for full-time or long-term engagements.
 
 ## Core Expertise
 
-* **AI Systems Engineering** – LLM fine-tuning (SFT), evaluation pipelines, deterministic tool-calling validation, agent orchestration
+* **AI Systems Engineering** – Fine-Tuning, Large-scale LLM dataset creation & curation, PII filtering, synthetic augmentation, evaluation harness design, and production ML pipelines.
 * **Backend Architecture** – Python, FastAPI, Node.js, PostgreSQL, SQLAlchemy
 * **Frontend Systems** – React, Next.js, TypeScript, Ember.js
 * **Infrastructure** – AWS, Terraform, CI/CD, high-performance LLM serving (vLLM, llama.cpp)
