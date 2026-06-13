@@ -22,8 +22,6 @@ Currently available for full-time or long-term engagements.
 
 ---
 
----
-
 ## Featured AI Work
 
 ### AIMO3 Math Corpus & Dataset Pipeline
