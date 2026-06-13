@@ -22,6 +22,27 @@ Currently available for full-time or long-term engagements.
 
 ---
 
+---
+
+## Featured AI Work
+
+### AIMO3 Math Corpus & Dataset Pipeline
+
+Public dataset engineering project for the Kaggle **AI Mathematical Olympiad Progress Prize 3 (AIMO3)** competition.
+
+I built a reproducible pipeline for collecting, filtering, profiling, splitting, and analyzing olympiad-style math problems for LLM training and evaluation. The project focuses on dataset quality, integer-answer validation, domain balancing, difficulty profiling, level prediction, and transparent corpus construction.
+
+**Links:**
+
+* [Kaggle writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672685)
+* [GitHub repository](https://github.com/laureano-arcanio/aimo3-dataset-pipeline)
+* [Dataset exploratory analysis notebook](https://www.kaggle.com/code/laureanoarcanio/multi-axis-dataset-exploratory-analysis)
+* [Filtering and split notebook](https://www.kaggle.com/code/laureanoarcanio/filtering-and-split-notebook/)
+* [Level prediction notebook](https://www.kaggle.com/code/laureanoarcanio/multi-axis-level-prediction)
+
+---
+
+
 ## Selected Experience
 
 ### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
