@@ -30,8 +30,13 @@ Public dataset engineering project for the Kaggle **AI Mathematical Olympiad Pro
 
 I built a reproducible pipeline for collecting, filtering, profiling, splitting, and analyzing olympiad-style math problems for LLM training and evaluation. The project focuses on dataset quality, integer-answer validation, domain balancing, difficulty profiling, level prediction, and transparent corpus construction.
 
+🏅 **Special Commendation — AIMO3 MathCorpus Prize.** My submission introduced an **Inference Constraint Level (ICL)** profiling framework: for each math problem, it records the minimal inference configuration — model, max tokens, timeout — needed to solve it. Reviewers highlighted it as a novel way to think about problem difficulty and compute allocation, with applications in dynamic compute-budgeting and exam difficulty assessment.
+
 **Links:**
 
+* [AIMO3 MathCorpus Prize announcement](https://lnkd.in/dgNCVn8x)
+* [Special Commendation detail](https://lnkd.in/dzhXV6i2)
+* [ICL profiling framework writeup](https://lnkd.in/dANAvCnx)
 * [Kaggle writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672685)
 * [GitHub repository](https://github.com/laureano-arcanio/aimo3-dataset-pipeline)
 * [Dataset exploratory analysis notebook](https://www.kaggle.com/code/laureanoarcanio/multi-axis-dataset-exploratory-analysis)
@@ -55,19 +60,12 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 
 ## Selected Experience
 
-### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
+### Entrepreneurship — Atentina (Sep 2026 – Present)
 
-* Designed large-scale conversational datasets with PII masking and synthetic augmentation
-* Fine-tuned Gemma, LLaMA, and GPT-OSS models using SFT pipelines
-* Built deterministic evaluation frameworks for tool-calling correctness
-* Designed multi-agent orchestration systems (LangChain, LangGraph, LiveKit)
-* Optimized LLM serving infrastructure (vLLM, SGLang, llama.cpp)
-
-### AI/Full-stack Engineer — Siegfried, ExOne RAG Platform (OneCast) (Feb 2026 – Oct 2026)
-
-* Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
-* Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
-* Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
+* Founded and built Atentina, a multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors)
+* Benchmarked and fine-tuned STT/TTS models, sustaining ~32 concurrent calls at p95 ≤ 3s over a LiveKit + Asterisk/SIP pipeline
+* Shipped WhatsApp and payment integrations to production
+* Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
 
 ### Full-stack Engineer — OneCast Marketplace (May 2026 – Oct 2026)
 
@@ -76,6 +74,12 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 * Triaged and delivered 42 tasks (~145 person-days) across 6 implementation waves from a client feedback round
 * **Live platform:** [x1cast.com](https://x1cast.com)
 
+### AI/Full-stack Engineer — Siegfried, ExOne RAG Platform (OneCast) (Feb 2026 – Oct 2026)
+
+* Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
+* Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
+* Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
+
 ### Backend Engineer — RUBS Utility Billing System (Jul 2026 – Aug 2026)
 
 * Automated a utility-billing pipeline for a 171-unit student-housing property, ingesting ~175 monthly invoices by email
@@ -83,12 +87,13 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 * Designed a mandatory human-approval gate and fully offline-testable infrastructure
 * **Live app:** [app.mfrubs.com](https://app.mfrubs.com/)
 
-### Entrepreneurship — Atentina (Sep 2026 – Present)
+### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
 
-* Founded and built Atentina, a multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors)
-* Benchmarked and fine-tuned STT/TTS models, sustaining ~32 concurrent calls at p95 ≤ 3s over a LiveKit + Asterisk/SIP pipeline
-* Shipped WhatsApp and payment integrations to production
-* Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
+* Designed large-scale conversational datasets with PII masking and synthetic augmentation
+* Fine-tuned Gemma, LLaMA, and GPT-OSS models using SFT pipelines
+* Built deterministic evaluation frameworks for tool-calling correctness
+* Designed multi-agent orchestration systems (LangChain, LangGraph, LiveKit)
+* Optimized LLM serving infrastructure (vLLM, SGLang, llama.cpp)
 
 ### Full-stack Developer — Tempus Insights (2025)
 
