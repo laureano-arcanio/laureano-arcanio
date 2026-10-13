@@ -40,11 +40,7 @@ I built a reproducible pipeline for collecting, filtering, profiling, splitting,
 
 ---
 
-## 2026 Project Portfolio — Agentic Systems
-
-Across 2026 I configured two recurring agentic patterns on top of Claude Code: **development-process agents** (role-specialized subagents — product owner, tech lead, implementer, reviewer, QA/security — orchestrated via `AGENTS.md`/`CLAUDE.md` conventions and gated by complexity/risk scoring, so large codebases stay consistent without one person reviewing everything) and **production AI agents** (multi-model reasoning pipelines, RAG systems, voice agents, and MCP tool-calling, typically served on self-hosted GPU infrastructure).
-
-### Competitions
+## Competitions
 
 **ARC (Kaggle ARC Prize 2026)** — *Apr 2026 – Oct 2026 · 101 commits*
 Multi-model reasoning pipeline (deterministic grid analyzer + Nemotron, Qwen and Muse models served locally via vLLM on dual RTX 3090) that generates and self-repairs executable `transform(grid)` programs for abstract-reasoning tasks, with sandboxed execution and controlled ensemble experiments.
@@ -54,25 +50,6 @@ Full-stack platform (FastAPI + Next.js, PostgreSQL/pgvector) where human solvers
 
 **ARC-AGI-2-HyTE** — *Jul 2026 – Sep 2026 · 21 commits*
 CLI toolkit with a role-based agent pipeline (coordinator → planner → specifier → implementer → reviewer → evaluator) that procedurally generates new ARC-style task families from human solving traces. Expanded the original 944 families with **337 newly generated families**, keeping 1,263 canonical test cases passing through a 5-phase refactor.
-
-### Voice Assistants
-
-**Atentina — Voice-as-a-Service Platform** — *Sep 2026 – Oct 2026 · 109 commits*
-Multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors) over a LiveKit + Asterisk/SIP pipeline, with a structured conversational engine driven by versioned JSON workflows. Benchmarked STT/TTS models for latency and accuracy, sustained **~32 concurrent calls at p95 ≤ 3s**, and shipped WhatsApp and payment integrations to production.
-
-**Atentina Client Apps (SUGYM)** — *Oct 2026*
-MCP-based backend exposing 19 typed tools so Atentina's voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments — hardened containerization, no-code business logic.
-
-### Client Engagements
-
-**Siegfried — ExOne RAG Support Platform (OneCast)** — *Feb 2026 – Oct 2026 · 802 commits*
-Enterprise RAG support system for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking, DOM-aware chunking, and automatic Salesforce-case triage. Built under a role-based multi-agent dev workflow (PO, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring.
-
-**OneCast Marketplace** — *May 2026 – Oct 2026 · 427 commits*
-Manufacturing marketplace spanning customer, vendor, and ops portals across the full RFQ-to-payout lifecycle, with instant cost estimation and vendor matching. Delivered under a structured multi-agent pipeline (product-owner → tech-lead → plan reviewer → code reviewers → QA); triaged and shipped **42 tasks (~145 person-days) across 6 implementation waves** from a client feedback round.
-
-**RUBS — Utility Billing System** — *Jul 2026 – Aug 2026 · 49 commits*
-Automated utility-billing pipeline for a 171-unit student-housing property: ingests ~175 monthly invoices by email, extracts and validates charges, prorates costs by occupancy with exact-cent allocation, and posts to the Entrata PMS — with mandatory human approval and idempotent, offline-testable infrastructure.
 
 ---
 
@@ -85,6 +62,33 @@ Automated utility-billing pipeline for a 171-unit student-housing property: inge
 * Built deterministic evaluation frameworks for tool-calling correctness
 * Designed multi-agent orchestration systems (LangChain, LangGraph, LiveKit)
 * Optimized LLM serving infrastructure (vLLM, SGLang, llama.cpp)
+
+### AI/Full-stack Engineer — Siegfried, ExOne RAG Platform (OneCast) (Feb 2026 – Oct 2026)
+
+* Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
+* Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
+* Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
+
+### Full-stack Engineer — OneCast Marketplace (May 2026 – Oct 2026)
+
+* Built a manufacturing marketplace spanning customer, vendor, and ops portals across the full RFQ-to-payout lifecycle
+* Shipped instant cost estimation from STL files and automated vendor matching
+* Triaged and delivered 42 tasks (~145 person-days) across 6 implementation waves from a client feedback round
+* **Live platform:** [x1cast.com](https://x1cast.com)
+
+### Backend Engineer — RUBS Utility Billing System (Jul 2026 – Aug 2026)
+
+* Automated a utility-billing pipeline for a 171-unit student-housing property, ingesting ~175 monthly invoices by email
+* Built exact-cent cost proration by occupancy and idempotent posting to the Entrata PMS
+* Designed a mandatory human-approval gate and fully offline-testable infrastructure
+* **Live app:** [app.mfrubs.com](https://app.mfrubs.com/)
+
+### Entrepreneurship — Atentina (Sep 2026 – Present)
+
+* Founded and built Atentina, a multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors)
+* Benchmarked and fine-tuned STT/TTS models, sustaining ~32 concurrent calls at p95 ≤ 3s over a LiveKit + Asterisk/SIP pipeline
+* Shipped WhatsApp and payment integrations to production
+* Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
 
 ### Full-stack Developer — Tempus Insights (2025)
 
