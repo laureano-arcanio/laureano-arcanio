@@ -30,8 +30,13 @@ Public dataset engineering project for the Kaggle **AI Mathematical Olympiad Pro
 
 I built a reproducible pipeline for collecting, filtering, profiling, splitting, and analyzing olympiad-style math problems for LLM training and evaluation. The project focuses on dataset quality, integer-answer validation, domain balancing, difficulty profiling, level prediction, and transparent corpus construction.
 
+🏅 **Special Commendation — AIMO3 MathCorpus Prize.** My submission introduced an **Inference Constraint Level (ICL)** profiling framework: for each math problem, it records the minimal inference configuration — model, max tokens, timeout — needed to solve it. Reviewers highlighted it as a novel way to think about problem difficulty and compute allocation, with applications in dynamic compute-budgeting and exam difficulty assessment.
+
 **Links:**
 
+* [AIMO3 MathCorpus Prize announcement](https://lnkd.in/dgNCVn8x)
+* [Special Commendation detail](https://lnkd.in/dzhXV6i2)
+* [ICL profiling framework writeup](https://lnkd.in/dANAvCnx)
 * [Kaggle writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672685)
 * [GitHub repository](https://github.com/laureano-arcanio/aimo3-dataset-pipeline)
 * [Dataset exploratory analysis notebook](https://www.kaggle.com/code/laureanoarcanio/multi-axis-dataset-exploratory-analysis)
