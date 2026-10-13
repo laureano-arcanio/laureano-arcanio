@@ -67,13 +67,6 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 * Shipped WhatsApp and payment integrations to production
 * Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
 
-### Backend Engineer — RUBS Utility Billing System (Jul 2026 – Aug 2026)
-
-* Automated a utility-billing pipeline for a 171-unit student-housing property, ingesting ~175 monthly invoices by email
-* Built exact-cent cost proration by occupancy and idempotent posting to the Entrata PMS
-* Designed a mandatory human-approval gate and fully offline-testable infrastructure
-* **Live app:** [app.mfrubs.com](https://app.mfrubs.com/)
-
 ### Full-stack Engineer — OneCast Marketplace (May 2026 – Oct 2026)
 
 * Built a manufacturing marketplace spanning customer, vendor, and ops portals across the full RFQ-to-payout lifecycle
@@ -86,6 +79,13 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 * Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
 * Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
 * Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
+
+### Backend Engineer — RUBS Utility Billing System (Jul 2026 – Aug 2026)
+
+* Automated a utility-billing pipeline for a 171-unit student-housing property, ingesting ~175 monthly invoices by email
+* Built exact-cent cost proration by occupancy and idempotent posting to the Entrata PMS
+* Designed a mandatory human-approval gate and fully offline-testable infrastructure
+* **Live app:** [app.mfrubs.com](https://app.mfrubs.com/)
 
 ### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
 
