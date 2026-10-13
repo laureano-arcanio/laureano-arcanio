@@ -55,26 +55,12 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 
 ## Selected Experience
 
-### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
+### Entrepreneurship — Atentina (Sep 2026 – Present)
 
-* Designed large-scale conversational datasets with PII masking and synthetic augmentation
-* Fine-tuned Gemma, LLaMA, and GPT-OSS models using SFT pipelines
-* Built deterministic evaluation frameworks for tool-calling correctness
-* Designed multi-agent orchestration systems (LangChain, LangGraph, LiveKit)
-* Optimized LLM serving infrastructure (vLLM, SGLang, llama.cpp)
-
-### AI/Full-stack Engineer — Siegfried, ExOne RAG Platform (OneCast) (Feb 2026 – Oct 2026)
-
-* Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
-* Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
-* Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
-
-### Full-stack Engineer — OneCast Marketplace (May 2026 – Oct 2026)
-
-* Built a manufacturing marketplace spanning customer, vendor, and ops portals across the full RFQ-to-payout lifecycle
-* Shipped instant cost estimation from STL files and automated vendor matching
-* Triaged and delivered 42 tasks (~145 person-days) across 6 implementation waves from a client feedback round
-* **Live platform:** [x1cast.com](https://x1cast.com)
+* Founded and built Atentina, a multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors)
+* Benchmarked and fine-tuned STT/TTS models, sustaining ~32 concurrent calls at p95 ≤ 3s over a LiveKit + Asterisk/SIP pipeline
+* Shipped WhatsApp and payment integrations to production
+* Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
 
 ### Backend Engineer — RUBS Utility Billing System (Jul 2026 – Aug 2026)
 
@@ -83,12 +69,26 @@ CLI toolkit with a role-based agent pipeline (coordinator → planner → specif
 * Designed a mandatory human-approval gate and fully offline-testable infrastructure
 * **Live app:** [app.mfrubs.com](https://app.mfrubs.com/)
 
-### Entrepreneurship — Atentina (Sep 2026 – Present)
+### Full-stack Engineer — OneCast Marketplace (May 2026 – Oct 2026)
 
-* Founded and built Atentina, a multi-tenant telephony voice-agent platform with a fully self-hosted inference stack (STT/LLM/TTS on local GPUs, no external AI vendors)
-* Benchmarked and fine-tuned STT/TTS models, sustaining ~32 concurrent calls at p95 ≤ 3s over a LiveKit + Asterisk/SIP pipeline
-* Shipped WhatsApp and payment integrations to production
-* Onboarded first client app (SUGYM): an MCP-based backend exposing 19 typed tools so the voice/WhatsApp agent can manage a gym's students, attendance, fees, and payments
+* Built a manufacturing marketplace spanning customer, vendor, and ops portals across the full RFQ-to-payout lifecycle
+* Shipped instant cost estimation from STL files and automated vendor matching
+* Triaged and delivered 42 tasks (~145 person-days) across 6 implementation waves from a client feedback round
+* **Live platform:** [x1cast.com](https://x1cast.com)
+
+### AI/Full-stack Engineer — Siegfried, ExOne RAG Platform (OneCast) (Feb 2026 – Oct 2026)
+
+* Built an enterprise RAG support platform for 3D sand-printer technical documentation, with hybrid retrieval (pgvector + full-text, RRF-fused) and reranking
+* Implemented DOM-aware chunking to cite exact manual sections, plus automatic Salesforce-case triage
+* Established a role-based multi-agent dev workflow (product owner, tech lead, backend/frontend/AI specialists, QA, security reviewer) gated by complexity/risk scoring across 800+ commits
+
+### Senior AI Systems Engineer — Liberate Innovations (2025–2026)
+
+* Designed large-scale conversational datasets with PII masking and synthetic augmentation
+* Fine-tuned Gemma, LLaMA, and GPT-OSS models using SFT pipelines
+* Built deterministic evaluation frameworks for tool-calling correctness
+* Designed multi-agent orchestration systems (LangChain, LangGraph, LiveKit)
+* Optimized LLM serving infrastructure (vLLM, SGLang, llama.cpp)
 
 ### Full-stack Developer — Tempus Insights (2025)
 
