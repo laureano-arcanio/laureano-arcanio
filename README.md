@@ -36,7 +36,7 @@ I built a reproducible pipeline for collecting, filtering, profiling, splitting,
 
 * [AIMO3 MathCorpus Prize announcement](https://lnkd.in/dgNCVn8x](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484)
 * [Special Commendation detail]([https://lnkd.in/dzhXV6i2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672685)
-* [ICL profiling framework writeup]([https://lnkd.in/dANAvCnx](https://github.com/laureano-arcanio/aimo3-dataset-pipeline))
+* [ICL profiling framework writeup](https://lnkd.in/dANAvCnx](https://github.com/laureano-arcanio/aimo3-dataset-pipeline)
 * [Kaggle writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672685)
 * [GitHub repository](https://github.com/laureano-arcanio/aimo3-dataset-pipeline)
 * [Dataset exploratory analysis notebook](https://www.kaggle.com/code/laureanoarcanio/multi-axis-dataset-exploratory-analysis)
